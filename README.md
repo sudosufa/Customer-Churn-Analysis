@@ -1,7 +1,7 @@
 # Customer-Churn-Analysis
 
 Customer Churn Analysis and Prediction
-Overview
+
 
 This project utilizes a comprehensive dataset from a bank, aiming to perform exploratory data analysis (EDA) to gain insights into the primary factors influencing customer churn. Additionally, a machine learning model is developed to accurately predict customer churn.
 Dataset Details
